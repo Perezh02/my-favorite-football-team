@@ -5,13 +5,13 @@
 
 h1 {
     font-size: 100px;
-    color: blue;
+    color: black;
     text-align: center;
     font-family: "Anton",  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
 
-.center-image {
+body {
     text-align: center;
     background-image: url("https://s.w-x.co/buffalo-bills-snow-10dec17-ap.jpg");
     background-repeat: no-repeat;
@@ -20,8 +20,8 @@ h1 {
 }
 
 .wikisays {
-    float: left;
-    position: relative;
+    float: center;
+    position: center;
     margin-right: 30%;
     margin-top: 1%;
     margin-bottom: 1%;
@@ -29,5 +29,10 @@ h1 {
     padding: 20px;
     border-radius: 100px;
     opacity: .7;
+    
 }
 
+p {
+    text-align: center;
+    font-weight: bold;
+}
