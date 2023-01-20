@@ -4,18 +4,18 @@
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 100px;
     color: blue;
     text-align: center;
-    font-family: "Castellar", sans-serif;
+    font-family: "Anton",  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
 }
 
 .center-image {
     text-align: center;
+    background-image: url("https://s.w-x.co/buffalo-bills-snow-10dec17-ap.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000000;
 }
 
-img {
-    border: 20px dotted black;
-    border-radius: 20px;
-}
