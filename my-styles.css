@@ -19,3 +19,15 @@ h1 {
     background-color: #000000;
 }
 
+.wikisays {
+    float: left;
+    position: relative;
+    margin-right: 30%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: rgba(13, 98, 217, 0.459);
+    padding: 20px;
+    border-radius: 100px;
+    opacity: .7;
+}
+
